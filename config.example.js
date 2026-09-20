@@ -1,0 +1,3 @@
+// انسخ هذا الملف إلى js/config.js ثم ضع بيانات مشروع Supabase.
+window.SUPABASE_URL = "https://YOUR-PROJECT.supabase.co";
+window.SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY";
